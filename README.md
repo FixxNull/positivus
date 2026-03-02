@@ -5,6 +5,8 @@ A personal pet project showcasing clean, responsive web design. Built with HTML 
 ## Site design preview
 ![](images/site.png)
 
+[Link](https://fixxnull.github.io/positivus/)
+
 ## Tech Stack
 
 | Component | Technology |
