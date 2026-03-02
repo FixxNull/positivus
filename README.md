@@ -11,4 +11,4 @@ A personal pet project showcasing clean, responsive web design. Built with HTML 
 
 | Component | Technology |
 |-----------|------------|
-| Frontend  | Html, SCSS |
+| Frontend  | HTML, SCSS |
